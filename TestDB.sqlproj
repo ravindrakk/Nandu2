@@ -61,4 +61,7 @@
     <Folder Include="Procedures" />
     <Folder Include="StaticData" />
   </ItemGroup>
+  <ItemGroup>
+    <Build Include="Procedures\MyProc1.sql" />
+  </ItemGroup>
 </Project>
